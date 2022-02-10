@@ -1,0 +1,45 @@
+
+body {
+    background-color:slategray !important;
+    font-style: oblique !important;
+}
+
+#sidebar {
+    background-color:slategray !important;
+}
+
+
+#toggle-sidebar {
+    white-space: nowrap;
+}
+
+#breadcrumb {
+    background-color: slategray !important;
+}
+
+.articles {
+    background-color: darkkhaki !important;
+}
+
+.module {
+    font-size: large !important;
+    background-color:burlywood !important;
+}
+
+.activite {
+    background-color:burlywood !important;
+    font-size: large !important;
+}
+
+.projet {
+    background-color:burlywood !important;
+    font-size: large !important;
+}
+
+.mark {
+    background-color: brown !important;
+}
+
+.planning {
+    background-color:orangered !important;
+}

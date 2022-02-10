@@ -1,0 +1,13 @@
+{
+    "name": "Dark_Mode_RS" ,
+    "version": "1.0" ,
+    "manifest_version": 2,
+    "content_scripts":[
+        {
+            "matches":["https://*/*"],
+            "css":["intra.css"],
+            "js": [ "test.js"]
+        }
+    ],
+    "permissions":["activeTab"]
+}
